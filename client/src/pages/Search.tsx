@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { useAuth } from '../context/AuthContext';
 import MovieCard from '../components/MovieCard';
+import { API_BASE_URL } from '../api/config';
 
 const Search: React.FC = () => {
     const [query, setQuery] = useState('');
@@ -12,7 +13,7 @@ const Search: React.FC = () => {
     const handleSearch = async (e: React.FormEvent) => {
         e.preventDefault();
         try {
-            const response = await axios.get(`http://localhost:5148/api/movies/search?title=${query}`, {
+            const response = await axios.get(`${API_BASE_URL}/api/movies/search?title=${query}`, {
                 headers: { Authorization: `Bearer ${token}` }
             });
             setMovies(response.data);
@@ -25,7 +26,7 @@ const Search: React.FC = () => {
 
     const handleAddFavorite = async (imdbId: string) => {
         try {
-            await axios.post('http://localhost:5148/api/favorites', { imdbId }, {
+            await axios.post(`${API_BASE_URL}/api/favorites`, { imdbId }, {
                 headers: { Authorization: `Bearer ${token}` }
             });
             alert('Added to favorites!');

@@ -221,3 +221,4 @@
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/obj/Debug/net10.0/MovieApp.Api.pdb
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/obj/Debug/net10.0/MovieApp.Api.genruntimeconfig.cache
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/obj/Debug/net10.0/ref/MovieApp.Api.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/obj/Debug/net10.0/MovieApp.Api.sourcelink.json

@@ -15,3 +15,4 @@
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/refint/MovieApp.Infrastructure.dll
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.pdb
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/ref/MovieApp.Infrastructure.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.sourcelink.json

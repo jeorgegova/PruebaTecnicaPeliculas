@@ -9,3 +9,4 @@
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/Debug/net10.0/refint/MovieApp.Domain.dll
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.pdb
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/Debug/net10.0/ref/MovieApp.Domain.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.sourcelink.json

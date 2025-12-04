@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useAuth } from '../context/AuthContext';
 import MovieCard from '../components/MovieCard';
+import { API_BASE_URL } from '../api/config';
 
 const Favorites: React.FC = () => {
     const [movies, setMovies] = useState<any[]>([]);
@@ -11,7 +12,7 @@ const Favorites: React.FC = () => {
     useEffect(() => {
         const fetchFavorites = async () => {
             try {
-                const response = await axios.get('http://localhost:5148/api/favorites', {
+                const response = await axios.get(`${API_BASE_URL}/api/favorites`, {
                     headers: { Authorization: `Bearer ${token}` }
                 });
                 setMovies(response.data);
