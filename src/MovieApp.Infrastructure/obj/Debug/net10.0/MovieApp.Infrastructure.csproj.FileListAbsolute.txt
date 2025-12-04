@@ -1,0 +1,17 @@
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/bin/Debug/net10.0/MovieApp.Infrastructure.deps.json
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/bin/Debug/net10.0/MovieApp.Infrastructure.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/bin/Debug/net10.0/MovieApp.Infrastructure.pdb
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/bin/Debug/net10.0/MovieApp.Application.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/bin/Debug/net10.0/MovieApp.Domain.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/bin/Debug/net10.0/MovieApp.Application.pdb
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/bin/Debug/net10.0/MovieApp.Domain.pdb
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.AssemblyInfo.cs
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.6069B4E2.Up2Date
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/refint/MovieApp.Infrastructure.dll
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/MovieApp.Infrastructure.pdb
+/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/Debug/net10.0/ref/MovieApp.Infrastructure.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0ZJPcvKXFw=",
+  "success": true,
+  "projectFilePath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/alfonsodelgadosantofimio/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
