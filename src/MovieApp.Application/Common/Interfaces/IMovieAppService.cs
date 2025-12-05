@@ -10,5 +10,6 @@ namespace MovieApp.Application.Common.Interfaces
         Task<IEnumerable<FavoriteMovie>> SearchMoviesAsync(string query);
         Task AddFavoriteAsync(int userId, string imdbId);
         Task<IEnumerable<FavoriteMovie>> GetFavoritesAsync(int userId);
+        Task RemoveFavoriteAsync(int userId, string imdbId);
     }
 }

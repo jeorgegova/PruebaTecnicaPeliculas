@@ -49,6 +49,21 @@ namespace MovieApp.Api.Controllers
                 return BadRequest(new { message = ex.Message });
             }
         }
+
+        [HttpDelete("{imdbId}")]
+        public async Task<IActionResult> RemoveFavorite(string imdbId)
+        {
+            try
+            {
+                var userId = int.Parse(User.FindFirst("id")?.Value ?? "0");
+                await _movieAppService.RemoveFavoriteAsync(userId, imdbId);
+                return Ok(new { message = "Removed from favorites" });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+        }
     }
 
     public class AddFavoriteRequest

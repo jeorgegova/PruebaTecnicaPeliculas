@@ -65,5 +65,17 @@ namespace MovieApp.Application.Services
             if (user == null) throw new Exception("User not found");
             return user.Favorites;
         }
+
+        public async Task RemoveFavoriteAsync(int userId, string imdbId)
+        {
+            var user = await _userRepository.GetByIdAsync(userId);
+            if (user == null) throw new Exception("User not found");
+
+            var favorite = user.Favorites.FirstOrDefault(f => f.ImdbId == imdbId);
+            if (favorite == null) throw new Exception("Favorite not found");
+
+            user.Favorites.Remove(favorite);
+            await _userRepository.UpdateAsync(user);
+        }
     }
 }

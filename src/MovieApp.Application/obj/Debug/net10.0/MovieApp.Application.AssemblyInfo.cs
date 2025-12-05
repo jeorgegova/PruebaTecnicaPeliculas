@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+717cd4f9bb2eab1de0438c1f509b4a0889d170eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1d9e3bad450941acca954db642391f8fa19b512")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
