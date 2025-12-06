@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p0ZJPcvKXFw=",
+  "dgSpecHash": "hu76tapUMNk=",
   "success": true,
-  "projectFilePath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj",
+  "projectFilePath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/alfonsodelgadosantofimio/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512"
+    "/Users/gogi/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512"
   ],
   "logs": []
 }

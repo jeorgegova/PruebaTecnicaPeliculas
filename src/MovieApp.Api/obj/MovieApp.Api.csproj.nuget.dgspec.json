@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/MovieApp.Api.csproj": {}
+    "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Api/MovieApp.Api.csproj": {}
   },
   "projects": {
-    "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/MovieApp.Api.csproj": {
+    "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Api/MovieApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/MovieApp.Api.csproj",
+        "projectUniqueName": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Api/MovieApp.Api.csproj",
         "projectName": "MovieApp.Api",
-        "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/MovieApp.Api.csproj",
-        "packagesPath": "/Users/alfonsodelgadosantofimio/.nuget/packages/",
-        "outputPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Api/obj/",
+        "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Api/MovieApp.Api.csproj",
+        "packagesPath": "/Users/gogi/.nuget/packages/",
+        "outputPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alfonsodelgadosantofimio/.nuget/NuGet/NuGet.Config"
+          "/Users/gogi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj": {
-                "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj"
+              "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj": {
+                "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj"
               },
-              "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj": {
-                "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj"
+              "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj": {
+                "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj"
               }
             }
           }
@@ -507,17 +507,17 @@
         }
       }
     },
-    "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj": {
+    "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj",
+        "projectUniqueName": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj",
         "projectName": "MovieApp.Application",
-        "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj",
-        "packagesPath": "/Users/alfonsodelgadosantofimio/.nuget/packages/",
-        "outputPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/obj/",
+        "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj",
+        "packagesPath": "/Users/gogi/.nuget/packages/",
+        "outputPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alfonsodelgadosantofimio/.nuget/NuGet/NuGet.Config"
+          "/Users/gogi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -529,8 +529,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/MovieApp.Domain.csproj": {
-                "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/MovieApp.Domain.csproj"
+              "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/MovieApp.Domain.csproj": {
+                "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/MovieApp.Domain.csproj"
               }
             }
           }
@@ -850,17 +850,17 @@
         }
       }
     },
-    "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/MovieApp.Domain.csproj": {
+    "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/MovieApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/MovieApp.Domain.csproj",
+        "projectUniqueName": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/MovieApp.Domain.csproj",
         "projectName": "MovieApp.Domain",
-        "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/MovieApp.Domain.csproj",
-        "packagesPath": "/Users/alfonsodelgadosantofimio/.nuget/packages/",
-        "outputPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/",
+        "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/MovieApp.Domain.csproj",
+        "packagesPath": "/Users/gogi/.nuget/packages/",
+        "outputPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alfonsodelgadosantofimio/.nuget/NuGet/NuGet.Config"
+          "/Users/gogi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -1183,17 +1183,17 @@
         }
       }
     },
-    "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj": {
+    "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj",
+        "projectUniqueName": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj",
         "projectName": "MovieApp.Infrastructure",
-        "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj",
-        "packagesPath": "/Users/alfonsodelgadosantofimio/.nuget/packages/",
-        "outputPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Infrastructure/obj/",
+        "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Infrastructure/MovieApp.Infrastructure.csproj",
+        "packagesPath": "/Users/gogi/.nuget/packages/",
+        "outputPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alfonsodelgadosantofimio/.nuget/NuGet/NuGet.Config"
+          "/Users/gogi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -1205,8 +1205,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj": {
-                "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj"
+              "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj": {
+                "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj"
               }
             }
           }

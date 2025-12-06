@@ -6,6 +6,7 @@ using System.Net.Http.Json;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using MovieApp.Application.Common.Interfaces;
+using MovieApp.Application.DTOs;
 using MovieApp.Domain.Entities;
 
 namespace MovieApp.Infrastructure.Services
@@ -42,7 +43,7 @@ namespace MovieApp.Infrastructure.Services
         public async Task<FavoriteMovie?> GetMovieByImdbIdAsync(string imdbId)
         {
             var response = await _httpClient.GetFromJsonAsync<OmdbMovieDetail>($"?apikey={_apiKey}&i={imdbId}");
-            
+
             if (response == null || string.IsNullOrEmpty(response.Title))
             {
                 return null;
@@ -54,6 +55,46 @@ namespace MovieApp.Infrastructure.Services
                 ImdbId = response.ImdbID,
                 PosterUrl = response.Poster
             };
+        }
+
+        public async Task<MovieDetailsDto?> GetMovieDetailsAsync(string imdbId)
+        {
+            var response = await _httpClient.GetFromJsonAsync<OmdbMovieDetail>($"?apikey={_apiKey}&i={imdbId}");
+
+            if (response == null || string.IsNullOrEmpty(response.Title) || response.Response != "True")
+            {
+                return null;
+            }
+
+            var ratings = response.Ratings?.Select(r => new MovieRatingDto(r.Source, r.Value)).ToList() ?? new List<MovieRatingDto>();
+
+            return new MovieDetailsDto(
+                response.Title,
+                response.Year,
+                response.Rated,
+                response.Released,
+                response.Runtime,
+                response.Genre,
+                response.Director,
+                response.Writer,
+                response.Actors,
+                response.Plot,
+                response.Language,
+                response.Country,
+                response.Awards,
+                response.Poster,
+                ratings,
+                response.Metascore,
+                response.ImdbRating,
+                response.ImdbVotes,
+                response.ImdbID,
+                response.Type,
+                response.DVD,
+                response.BoxOffice,
+                response.Production,
+                response.Website,
+                response.Response
+            );
         }
     }
 }

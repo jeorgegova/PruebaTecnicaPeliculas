@@ -10,3 +10,15 @@
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.pdb
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/Debug/net10.0/ref/MovieApp.Domain.dll
 /Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.sourcelink.json
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/bin/Debug/net10.0/MovieApp.Domain.deps.json
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/bin/Debug/net10.0/MovieApp.Domain.dll
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/bin/Debug/net10.0/MovieApp.Domain.pdb
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.AssemblyInfoInputs.cache
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.AssemblyInfo.cs
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.csproj.CoreCompileInputs.cache
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.sourcelink.json
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.dll
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/refint/MovieApp.Domain.dll
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/MovieApp.Domain.pdb
+/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/obj/Debug/net10.0/ref/MovieApp.Domain.dll

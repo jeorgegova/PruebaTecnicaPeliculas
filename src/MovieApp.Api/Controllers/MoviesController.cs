@@ -23,5 +23,16 @@ namespace MovieApp.Api.Controllers
             var results = await _movieAppService.SearchMoviesAsync(title);
             return Ok(results);
         }
+
+        [HttpGet("{imdbId}/details")]
+        public async Task<IActionResult> GetDetails(string imdbId)
+        {
+            var movieDetails = await _movieAppService.GetMovieDetailsAsync(imdbId);
+            if (movieDetails == null)
+            {
+                return NotFound("Movie details not found");
+            }
+            return Ok(movieDetails);
+        }
     }
 }

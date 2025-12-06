@@ -16,27 +16,29 @@ const AppRoutes: React.FC = () => {
   return (
     <>
       <Navbar />
-      <Routes>
-        <Route path="/login" element={<Login />} />
-        <Route path="/register" element={<Register />} />
-        <Route
-          path="/search"
-          element={
-            <PrivateRoute>
-              <Search />
-            </PrivateRoute>
-          }
-        />
-        <Route
-          path="/favorites"
-          element={
-            <PrivateRoute>
-              <Favorites />
-            </PrivateRoute>
-          }
-        />
-        <Route path="/" element={<Navigate to="/search" />} />
-      </Routes>
+      <div className="pt-20">
+        <Routes>
+          <Route path="/login" element={<Login />} />
+          <Route path="/register" element={<Register />} />
+          <Route
+            path="/search"
+            element={
+              <PrivateRoute>
+                <Search />
+              </PrivateRoute>
+            }
+          />
+          <Route
+            path="/favorites"
+            element={
+              <PrivateRoute>
+                <Favorites />
+              </PrivateRoute>
+            }
+          />
+          <Route path="/" element={<Navigate to="/search" />} />
+        </Routes>
+      </div>
     </>
   );
 };

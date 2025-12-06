@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using MovieApp.Application.Common.Interfaces;
+using MovieApp.Application.DTOs;
 using MovieApp.Domain.Entities;
 using MovieApp.Domain.Interfaces;
 
@@ -22,6 +23,11 @@ namespace MovieApp.Application.Services
         public async Task<IEnumerable<FavoriteMovie>> SearchMoviesAsync(string query)
         {
             return await _movieService.SearchMoviesAsync(query);
+        }
+
+        public async Task<MovieDetailsDto?> GetMovieDetailsAsync(string imdbId)
+        {
+            return await _movieService.GetMovieDetailsAsync(imdbId);
         }
 
         public async Task AddFavoriteAsync(int userId, string imdbId)

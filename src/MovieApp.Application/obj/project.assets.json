@@ -72,19 +72,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/alfonsodelgadosantofimio/.nuget/packages/": {}
+    "/Users/gogi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj",
+      "projectUniqueName": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj",
       "projectName": "MovieApp.Application",
-      "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/MovieApp.Application.csproj",
-      "packagesPath": "/Users/alfonsodelgadosantofimio/.nuget/packages/",
-      "outputPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Application/obj/",
+      "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/MovieApp.Application.csproj",
+      "packagesPath": "/Users/gogi/.nuget/packages/",
+      "outputPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/alfonsodelgadosantofimio/.nuget/NuGet/NuGet.Config"
+        "/Users/gogi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -96,8 +96,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/MovieApp.Domain.csproj": {
-              "projectPath": "/Users/alfonsodelgadosantofimio/Documents/GoGI/Prueba_Tecnica_Peilculas/src/MovieApp.Domain/MovieApp.Domain.csproj"
+            "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/MovieApp.Domain.csproj": {
+              "projectPath": "/Users/gogi/Documents/GoGi/PruebaTecnicaPeliculas/src/MovieApp.Domain/MovieApp.Domain.csproj"
             }
           }
         }
